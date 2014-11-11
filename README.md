@@ -1,4 +1,4 @@
-errstinky.github.io
+squarenone.github.io
 ===================
 
 scribbly snap
